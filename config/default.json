@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://jeevanpuhan91:RCOPNXhlWMD89DHX@gymfreakers-nesxs.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
+}
